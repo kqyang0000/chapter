@@ -24,6 +24,7 @@
         <servlet-api.version>2.5</servlet-api.version>
         <jstl.version>1.2</jstl.version>
         <testng.version>6.3.1</testng.version>
+        <jetty.version>6.1.5</jetty.version>
     </properties>
 
     <modules>
